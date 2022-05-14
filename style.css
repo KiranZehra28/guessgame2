@@ -1,0 +1,43 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#box{
+    background-color: rgb(179, 138, 221);
+    border: 3px solid white;
+    border-radius: 10px;
+    box-shadow: 6px 6px cadetblue;
+    height: 300px;
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+    align-items: center;
+    margin-top: 150px;
+}
+
+#guess{
+    padding-top: 60px;
+}
+
+#outputtext{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+p{
+    color: white;
+    text-align: center;
+    font-size: 25px;
+}
+
+#input{
+    width: 100px;
+    margin-top: 25px auto;
+}
+
+#btn{
+    margin: 25px auto auto 5px;
+    padding: 10px 25px;
+}
